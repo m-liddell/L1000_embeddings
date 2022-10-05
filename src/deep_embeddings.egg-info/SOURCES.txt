@@ -1,0 +1,12 @@
+setup.py
+src/deep_embeddings/__init__.py
+src/deep_embeddings.egg-info/PKG-INFO
+src/deep_embeddings.egg-info/SOURCES.txt
+src/deep_embeddings.egg-info/dependency_links.txt
+src/deep_embeddings.egg-info/top_level.txt
+src/deep_embeddings/azureml/__init__.py
+src/deep_embeddings/azureml/aml_clean_data.py
+src/deep_embeddings/azureml/aml_create_and_trigger_pipeline.py
+src/deep_embeddings/azureml/aml_register_dataset.py
+src/deep_embeddings/data/__init__.py
+src/deep_embeddings/data/prepare_data.py

@@ -1,0 +1,13 @@
+name: tf_sklearn
+dependencies:
+- python=3.8.1
+- pip:
+  - numba
+  - scikit-learn
+  - pandas
+  - cmapPy
+  - pyarrow
+  - matplotlib
+  - azureml-core
+  - tensorflow==2.9.0
+  - tensorflow-addons==0.17.0
